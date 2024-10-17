@@ -1,5 +1,7 @@
 package servicios;
 
-public class ConsultaPostgreImplementacion implements ConexionBDInterfaz {
+public class ConsultaPostgreImplementacion implements ConsultaBDInterfaz {
+	
+	
 
 }
