@@ -1,5 +1,5 @@
 package servicios;
 
-public class MenuImplementacion {
+public class MenuImplementacion implements MenuInterfaz{
 
 }

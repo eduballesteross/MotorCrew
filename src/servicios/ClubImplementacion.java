@@ -1,5 +1,5 @@
 package servicios;
 
-public class ClubImplementacion {
+public class ClubImplementacion implements ClubInterfaz{
 
 }

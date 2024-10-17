@@ -1,5 +1,5 @@
 package servicios;
 
-public class ClienteImplementacion {
+public class ClienteImplementacion implements ClienteInterfaz {
 
 }
