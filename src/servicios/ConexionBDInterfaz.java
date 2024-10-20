@@ -6,6 +6,6 @@ public interface ConexionBDInterfaz {
 
 	public Connection abrirConexion();
 	
-	public void cerrarConexion();
+	public void cerrarConexion(Connection conexion);
 	
 }
